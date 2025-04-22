@@ -1,0 +1,32 @@
+{
+  "name": "Healthcare Dashboard Theme",
+  "dataColors": [
+    "#4A90E2",
+    "#50C3B4",
+    "#7ED6A3",
+    "#F67280",
+    "#D3D3D3",
+    "#E6F2FF"
+  ],
+  "background": "#F8F9FA",
+  "foreground": "#333333",
+  "tableAccent": "#4A90E2",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "color": "#333333",
+            "fontSize": 12
+          }
+        ],
+        "labelText": [
+          {
+            "color": "#333333",
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}
