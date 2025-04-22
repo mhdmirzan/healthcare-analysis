@@ -9,4 +9,4 @@ See the full dashboard here - [App Power BI link](https://app.powerbi.com/view?r
 ![Treatment](Treatment.png)
 
 ### Page 3: Performance Analysis
-![Performance](Performance)
+![Performance](Performance.png)
